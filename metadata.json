@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Agricultural Assistant and Farmer Portal",
+  "description": "A premium glassmorphic portal for farmers featuring onboarding registration, a specialized agricultural AI chat assistant with voice input, customized seasonal alerts, and a fertilizer locator with shop listings.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
